@@ -1,0 +1,22 @@
+{
+  "name": "pathzero",
+  "version": "1.0.0",
+  "description": "Discount engine",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "udari weerasekara",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "json-rules-engine": "^6.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
